@@ -1,0 +1,80 @@
+Python is a high-level programming language.
+Machine learning is a subset of artificial intelligence.
+SQL is used to manage relational databases.
+Deep learning uses neural networks.
+MySQL is a relational database management system.
+AI enables machines to perform intelligent tasks.
+Supervised learning uses labelled datasets.
+Cloud computing provides computing resources over the internet.
+
+=======================================================================================
+
+Photosynthesis is the process by which plants convert sunlight into chemical energy.
+Python is widely used for automation and data analysis.
+A balance sheet shows the financial position of a company.
+The Earth revolves around the Sun once every year.
+Machine learning algorithms learn patterns from historical data.
+Digital marketing uses online platforms to promote products.
+Deforestation contributes to climate change and biodiversity loss.
+SQL is used to retrieve and manage data in relational databases.
+The human heart pumps blood throughout the body.
+Entrepreneurs identify problems and develop solutions to create businesses.
+Solar energy is a renewable source of energy.
+Artificial intelligence enables machines to perform tasks that require human intelligence.
+Inflation refers to a general increase in the prices of goods and services.
+The water cycle includes evaporation, condensation and precipitation.
+Cloud computing provides computing resources over the internet.
+
+======================================================================================
+
+A database stores structured information.
+The water cycle maintains the balance of water on Earth.
+Object-oriented programming uses classes and objects.
+Communication skills are important for professional success.
+A primary key uniquely identifies a database record.
+Photosynthesis requires sunlight, water and carbon dioxide.
+Encapsulation is one of the four pillars of OOP.
+Resume writing should highlight relevant skills and achievements.
+Normalization reduces redundancy in relational databases.
+The human brain controls body functions.
+Inheritance allows one class to acquire properties of another class.
+Public speaking requires confidence and preparation.
+SQL joins combine data from multiple tables.
+The nervous system transmits signals throughout the body.
+Polymorphism allows methods to behave differently in different contexts.
+
+======================================================================================
+
+Drinking sufficient water supports normal body functions.
+Compound interest earns interest on both principal and accumulated interest.
+Smartphones use operating systems to manage applications.
+Regular exercise improves cardiovascular fitness.
+A budget helps track income and expenses.
+Two-factor authentication adds an extra layer of account security.
+Fruits and vegetables provide essential vitamins and minerals.
+Credit scores help lenders evaluate borrowing risk.
+Cloud storage allows users to access files online.
+Sleep is important for memory and concentration.
+UPI enables instant digital payments in India.
+Strong passwords should be unique for different accounts.
+Emergency funds help manage unexpected expenses.
+Walking is a simple form of physical activity.
+
+======================================================================================
+
+
+The Taj Mahal is located in Agra, India.
+Photosynthesis converts light energy into chemical energy.
+A startup business often begins by identifying an unmet customer need.
+The Indian Constitution came into effect on 26 January 1950.
+Python supports libraries such as NumPy and Pandas.
+The Moon is Earth's natural satellite.
+Brand positioning helps a company differentiate its products.
+Water boils at approximately 100 degrees Celsius at standard atmospheric pressure.
+A firewall monitors and controls incoming and outgoing network traffic.
+Yoga combines physical postures, breathing and meditation.
+The Amazon rainforest contains a large variety of plant and animal species.
+A mutual fund pools money from multiple investors.
+The Eiffel Tower is located in Paris, France.
+Data visualization presents information through charts and graphs.
+Renewable energy sources include solar, wind and hydropower.

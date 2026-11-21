@@ -1,0 +1,6 @@
+
+[server]
+fileWatcherType = "auto"
+
+[client]
+toolbarMode = "minimal"
