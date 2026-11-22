@@ -189,8 +189,8 @@ with st.sidebar:
         """
         01. Add your scattered notes.     
         02. Gemini identifies related topics.
-        03. Get meaningful headings and bullet points.**
-        04. Save your organized notes as Markdown.**      
+        03. Get meaningful headings and bullet points.
+        04. Save your organized notes as Markdown.    
         """
     )
 
